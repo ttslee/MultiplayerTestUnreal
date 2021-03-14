@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MultiplayerTest",
+			"Path": "E:\\Users\\Teo Lee\\Documents\\GitHub\\MultiplayerTest\\Source\\MultiplayerTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MultiplayerTestEditor",
+			"Path": "E:\\Users\\Teo Lee\\Documents\\GitHub\\MultiplayerTest\\Source\\MultiplayerTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

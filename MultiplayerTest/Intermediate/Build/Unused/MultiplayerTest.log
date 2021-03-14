@@ -1,0 +1,10 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\Users\Teo Lee\Documents\GitHub).
+  Invalidating makefile for MultiplayerTestEditor (MultiplayerTestCharacter.cpp modified)
+  Parsing headers for MultiplayerTestEditor
+    Running UnrealHeaderTool "E:\Users\Teo Lee\Documents\GitHub\MultiplayerTest\MultiplayerTest.uproject" "E:\Users\Teo Lee\Documents\GitHub\MultiplayerTest\Intermediate\Build\Win64\MultiplayerTestEditor\Development\MultiplayerTestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Teo Lee\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for MultiplayerTestEditor in 4.4256394 seconds
+  Building MultiplayerTestEditor...
+  Using Visual Studio 2019 14.28.29912 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 7 actions with 12 processes...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): warning MSB5021: Terminating the task executable "cmd" and its child processes because the build was canceled.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB4181: The "Exec" task returned false but did not log an error.

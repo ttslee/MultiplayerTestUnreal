@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Users\\Teo Lee\\Documents\\GitHub\\MultiplayerTestUnreal\\MultiplayerTest\\Source\\MultiplayerTest\\MultiplayerTest.Build.cs",
+		"E:\\Users\\Teo Lee\\Documents\\GitHub\\MultiplayerTestUnreal\\MultiplayerTest\\Source\\MultiplayerTest.Target.cs",
+		"E:\\Users\\Teo Lee\\Documents\\GitHub\\MultiplayerTestUnreal\\MultiplayerTest\\Source\\MultiplayerTestEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}
