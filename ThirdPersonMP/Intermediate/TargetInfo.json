@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ThirdPersonMP",
+			"Path": "E:\\Users\\Teo Lee\\Documents\\GitHub\\MultiplayerTestUnreal\\ThirdPersonMP\\Source\\ThirdPersonMP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ThirdPersonMPEditor",
+			"Path": "E:\\Users\\Teo Lee\\Documents\\GitHub\\MultiplayerTestUnreal\\ThirdPersonMP\\Source\\ThirdPersonMPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

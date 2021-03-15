@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Users\\Teo Lee\\Documents\\GitHub\\MultiplayerTestUnreal\\ThirdPersonMP\\Source\\ThirdPersonMP\\ThirdPersonMP.Build.cs",
+		"E:\\Users\\Teo Lee\\Documents\\GitHub\\MultiplayerTestUnreal\\ThirdPersonMP\\Source\\ThirdPersonMP.Target.cs",
+		"E:\\Users\\Teo Lee\\Documents\\GitHub\\MultiplayerTestUnreal\\ThirdPersonMP\\Source\\ThirdPersonMPEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}

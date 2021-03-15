@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ThirdPersonMP-5190.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Users\Teo Lee\Documents\GitHub\MultiplayerTestUnreal\ThirdPersonMP\Intermediate\Build\Win64\ThirdPersonMPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Users\Teo Lee\Documents\GitHub\MultiplayerTestUnreal\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMP.cpp.obj"
+"E:\Users\Teo Lee\Documents\GitHub\MultiplayerTestUnreal\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMPCharacter.cpp.obj"
+"E:\Users\Teo Lee\Documents\GitHub\MultiplayerTestUnreal\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMPGameMode.cpp.obj"
+"E:\Users\Teo Lee\Documents\GitHub\MultiplayerTestUnreal\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMPProjectile.cpp.obj"
+"E:\Users\Teo Lee\Documents\GitHub\MultiplayerTestUnreal\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMP.init.gen.cpp.obj"
+"E:\Users\Teo Lee\Documents\GitHub\MultiplayerTestUnreal\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMPCharacter.gen.cpp.obj"
+"E:\Users\Teo Lee\Documents\GitHub\MultiplayerTestUnreal\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMPGameMode.gen.cpp.obj"
+"E:\Users\Teo Lee\Documents\GitHub\MultiplayerTestUnreal\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMPProjectile.gen.cpp.obj"
+"E:\Users\Teo Lee\Documents\GitHub\MultiplayerTestUnreal\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\Default.rc2.res"
+/OUT:"E:\Users\Teo Lee\Documents\GitHub\MultiplayerTestUnreal\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\UE4Editor-ThirdPersonMP-5190.lib"
+/INCLUDE:IMPLEMENT_MODULE_ThirdPersonMP
